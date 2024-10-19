@@ -1,15 +1,15 @@
-/* Targeting all paragraphs inside container div and changing colors */
+
 .container p:nth-child(1) {
-  color: green;
+  color: rgb(0, 51, 254);
 }
 .container p:nth-child(2) {
-  color: yellow;
+  color: rgb(255, 0, 0);
 }
 .container p:nth-child(3) {
-  color: purple;
+  color: rgb(0, 255, 247);
 }
 .container p:nth-child(4) {
-  color: green;
+  color: rgb(28, 255, 3);
 }
 
 /* Flexbox implementation */
